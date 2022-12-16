@@ -111,6 +111,13 @@ necessários para equipe desenvolver os trabalhos. Ele garante uma equipe funcio
 
 
 
+![image](https://user-images.githubusercontent.com/52088444/207999407-f7b86aa2-cf95-492d-89e1-a65b5fcebe7e.png)
+
+Scrum em projetos grandes?
+
+eles são aplicados em projetos de maior porte, e o método é chamado de scrum dos scrums.
+
+Ou seja são várias várias e quipes e o scrum master chefe será o facilitador geral, e várias equipes com seu scrum master.
 
 
 
