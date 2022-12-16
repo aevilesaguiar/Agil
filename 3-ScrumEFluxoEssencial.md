@@ -89,6 +89,27 @@ No Scrum nós temos os seguintes papeis:
 ![image](https://user-images.githubusercontent.com/52088444/207996890-34f9d37a-fea0-417b-a503-de1059b2d778.png)
 
 
+A equipe scrum é quem realmente irá desenvolver o produto.
+
+- Dono do Produto:Representa o cliente na frente do Scrum Master e da equpe, ou seja ele conversa com o cliente e depois trás todos as histórias de usuaios(requisitos)
+  Exemplo no sistema da escola esperança cliente se refere a professores, coordenadores, diretorres, alunos... 
+  o dono do produto são as partes interessadas/envolvidas diretamente ou indiretamente ou seja, pessoas que vão definir quais são os requisitos desse sistema.
+  O dono do produto representa todas as partes interessadas/envolvidas , ele ouve o que as partes interessadas querem em relação ao sistema escolar,
+  e tranforma em histórias de usuario , que são os requisitos do produto e vai passar isso para a equipe Scrum desenvolver.
+  O dono do produto e prioriza as necessidades de acordo com o valor de negócio, por exemplo o que é mais importante é o registro de alunos, é o cadastro de notas, é o   diário de classe, é o registro de presença dos alunos nas aulas, cada item desse será priorizado com aquilo com que o cliente necessita mais.
+  E nós chamamos isso de Histórias de usuários/User Storys
+  O dono do produto mantém todas aquelas histórias de usuário que vão ser desenvolvidas para se chegar no sistema final. Ele mantém esse backlog sempre atualizado
+  e priorizado. Ele é reponsável por aceitar ou rejeitar as entregas(seria o final da sprint), o dono do produto pode representar o cliente e aprovar e rejeitar a entrega.
+  
+- Equipe scrum: programadores, testadores, arquitetos.... Responsável por fazer o desenvolvimento do produto. é recomendado que uma equipe scrum tenha de 5 a 9 pessoas. Sendo suficiente para ter as competencias e comunicação fluida. A equipe será responsável por decidir quais histórias de usuário deverão ser desenvolvidas na
+-iteração que está sendo planejada. O dono do produto define qual a prioridade, mas a equipe scrum é quem diz se dar tempo de fazer todas as histórias, ele avalia qual história será desenvolvida em cada iteração. Garante a qualidade e cumprimento dos prazos. Uma característica marcante da equipe scrum é a Auto organização.
+Cada membro do time é quem define qual a sua especialidade e isso melhora a efiicencia, a equipe scrum é autônoma, os membros da equipe são independentes.
+
+
+- Scrum master: Especialista em Scrum para a equipe. O Scrum Master seria um facilitador, não é um líder, nem um gerente de projeto, ele é reponsável por garantir a Equipe Scrum o melhor ambiente possivel, para que o projeto tenha mais chance de sucesso. Scrum Master é reposnsável por remover impedimentos. Ele busca os recursos
+necessários para equipe desenvolver os trabalhos. Ele garante uma equipe funcional e produtiva, reponsável por fazer acontecer.
+
+
 
 
 
