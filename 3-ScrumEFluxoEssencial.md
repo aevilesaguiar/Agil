@@ -19,3 +19,7 @@ Scrum é um arcabouço simples para gerenciar projetos.(Arcabouço:  estrutura, 
 ## Pilares do sCRUM
 
 ![image](https://user-images.githubusercontent.com/52088444/207993568-a688c70e-9931-4611-98d1-0d8ca09b18b6.png)
+
+O SCRUM É EXTREMAMENTE FLEXÍVEL PARA PROMOVER A TRANSPARENCIA , A INSPEÇÃO E A FÁCIL ADAPTAÇÃO AO LONGO DOS PROJETOS.
+
+
