@@ -62,6 +62,8 @@ Exemplo, um dos membros fala que é 20 horas , outro 30, outro 40, outro 20, out
 
 A reunião de planejamento da sprint tem um segundo momento, que é o momento da criação das tarefas(tasks). A equipe Scrum que é uma equipe alto organizada ela vai se reunir e vai criar tarefas. 
 
+A decisão sobre quais histórias de usuário irão compor uma Sprint é tomada em conjunto entre o Dono do Produto (que prioriza as histórias de usuário no backlog) e a Equipe Scrum (que define quais histórias "cabem" ser feitas no período de uma Sprint).
+
 
 
 
