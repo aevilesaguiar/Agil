@@ -68,6 +68,92 @@ Quais as habilidades que um Scrum Master deve ter:
 
 
 
+## Dono do Produto
+
+Dono do produto é quem faz a ponte entre as partes interessadas (cliente, gestoress, patrocinadores) e a equipe Scrum/Time de desenvolvimento.
+
+Ele entende as necessidades e prioridades do cliente, comunicação ativa com o Time Scrum.
+Ele determina a prioridade das Sprints.
+Cada história de usuario(requisito) tem que ter criterio de aceitação , para ver se a história será aceita ou não.
+Garante que as entregas estão obedecendo os criterios de aceitação definidos.
+O dono de produto deve ter um engajamento com o Time Scrum, ou seja durante todo o desenvolvimento do Projeto, e isso é crucial para o sucesso de um produto scrum.
+
+
+## Equipe Scrum
+
+Recae mais sobre a conhecimentos e habilidades técnicas, porém o lado não técnico pesa bastante devido a proatividade, colaboração, companheirismo, disposição.
+
+
+
+## Backlog de Produto: identificando as necessidades das partes interessadas
+
+*Requisito do Produto: Aquilo que as partes interessadas te requisitam para o produto.
+*Requisitos são chamados de histórias de Usuarios
+
+Backlog é como se fosse uma caixa cheia de histórias de usuário.
+
+
+- Formato para se registrar uma história de Usuário
+
+
+Como um [ator] eu quero |preciso de| devo|gostaria de [ação] para [finalidade]
+
+[Loja] Como um gerente de vendas eu preciso de um relatório mensal de vendas para verificar se os objetivos da minha equipe foram alcançados.
+
+[Airbnb] Como cliente eu quero fazer reserva de apartamento pela web para facilitar o planejamento das minhas férias.
+
+[Proje4me] "Como usuário preciso visualizar as minhas tarefas atuais para ficar a par do que tenho que fazer"
+
+
+
+Quando iniciamos um projeto geralmente trabalhamos com histórias em alto nível pois não temos muito detalhes:
+
+"Como um gestor da escola, eu quero poder realizar avaliação de desempenho dos professores para poder dar bônus com justiça"
+
+A partir da história acima poderemos devidí-la em várias histórias em tamanho menor. 
+
+Ou seja em Scrum chamamos de épico. Podemos deduzir que uma história é um épico quando ela não cabe numa sprint, ela deve ser dividida em partes menores histórias menores.
+
+- Épico: história de usuarios que precisam ser divididas em histórias menores, para ser melhor estimada, planejada e desenvolvida pela equipe. Em outras palavras épico é uma história de usuário que é grande o suficiente para que eu pense em quebrar em histórias menores no backlog do produto
+
+Ex:
+
+"Como um gestor da escola, eu quero poder realizar avaliação de desempenho dos professores para poder dar bônus com justiça"
+podemos quebrar em histórias menores...
+
+- Permitir cadastro de categorias de avaliação
+- Permitir cadastro de critérios de avaliação
+- Permitir o registro de avaliaçãoes
+- Permitir o envio de avaliações por email
+- Permitir a impressão de avaliaçãoes
+- Permitir a configuração de permissão de quem avalis quem.
+
+
+
+
+## Backlog de Produto: Coletando histórias de usuários
+
+
+Como o dono do produto vai coletar as histórias de usuários na fase inicial do projeto?
+- Através de reuniões de grupos de usuarios as quais envolvem clientes, as principais partes interessadas, o dono do produto escuta todas essas partes interessadas e documenta em forma de épicos ou histórias menores.
+
+Ex: no exemplo do sistema escolar, o dono do produto iria conversar com o diretor, com a representação dos professores(1 ou 2 prof), representação dos alunos online.
+
+
+
+## Backlog de Produto: Definindo prioridades
+
+Uma das principais responsabilidades do dono do produto é priorizar as histórias de usuários que estão no Backlog do produto.
+
+Estratégias comuns para priorizar o Backlog do produto:
+
+A primieira estratégia é a mais comum, que é atribuir numeros as histórias de usuários. Esses números representam prioridades, Ex: de 0 a 100 onde 100 representa a maior prioridade.
+
+
+
+
+
+
 
 
 
