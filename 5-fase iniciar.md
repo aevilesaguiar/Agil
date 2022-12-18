@@ -242,22 +242,22 @@ Mas é claro que, na prática, se você tem uma equipe muito pequena e quer apli
 
 
 
+Qual o propósito da declaração de visão de um projeto no Scrum? tem como objetivo apresentar o escopo preliminar daquele projeto, seus objetivos e metase justificando a sua existencia. Esse documento de visão geralmente é revisado várias vezes antes do inicio do projeto até que satisfaça a visão dos decisores daquele projeto.
+
+
+Não se encontra no documento de visão do projeto:o backlog do produto refinado e priorizado
 
 
 
+No documento de visão, vamos encontrar os subsídios para justificar os projetos. Essa afirmação é verdadeira?sim
+
+São características importantes no perfil da pessoa que vai assumir o papel de Dono do Produto: saber ouvir para entender as necessidades e documentá-las de forma clara.
+
+Uma equipe auto-organizada é uma equipe: uma equipe colaborativa, fazendo sua auto organização , decidindo coletivamente como planejar , gerenciar, comunicar e executar o trabalho.
 
 
+Uma história de usuário pode ser entendida como sendo um requisito levantado por alguma das partes interessadas e registrado no Backlog do Produto pelo Dono do produto. 
 
-
-
-
-
-
-
-
-
-
-
-
+Uma das principais vantagens em se fazer um cronograma de release: dar as partes interessadas uma expectativa de quando as versões funcionais do produto estarão liberadas.
 
 
