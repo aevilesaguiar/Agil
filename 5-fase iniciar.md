@@ -150,6 +150,105 @@ Estratégias comuns para priorizar o Backlog do produto:
 A primieira estratégia é a mais comum, que é atribuir numeros as histórias de usuários. Esses números representam prioridades, Ex: de 0 a 100 onde 100 representa a maior prioridade.
 
 
+História                            |Prioridade
+Registro de matricula dos alunos    |   100
+Registro de notas dos alunos        |    99
+Registro de presença dos alunos     |    90
+
+
+-> registro de Matricula dos alunos tem a prioridade maior.
+
+
+Outra estratégia é utilizar o método MOSCOW
+
+O termo MoSCoW é um acrônimo em inglês derivado da primeira letra de cada uma das quatro categorias com os “Os” no meio para fazer a palavra ser pronunciável. Fica assim:
+
+Must Have (Tenho que fazer/deve ter) -> maior prioridade
+O
+Should Have (Deveria ter)
+Could Have (Poderia ter)
+O
+Won’t Have (Não terá por enquanto) -> menor prioridade
+
+Nesse sentido, a ordem de importância das tarefas vai seguindo uma ordem decrescente, onde Must Have são as mais relevantes e as Won’t Have as que podem ficar para depois.
+
+Dessa forma é mais fácil priorizar as histórias do backlog
+
+## Criando planejamento de Release(planejamento de entregas principais do nosso projeto)
+
+Esse planejamento é muito importante e precisa ser feito após ter priorizado o backlog do produto. 
+é no planejamento de release que agente entrega as macro entregas do nosso projeto, definindo o que será entregue de forma macro do projeto, ou seja do inicio ao fim
+o que estaremos entregando do projeto ao cliente, e quais as datas planejadas para que essas entregas aconteçam.
+
+O cronograma de release é ótimo para sanar as espectativas de datas de todas aquelas partes envolvidas no projeto, ou seja quando elas vão receber algo funcional do sistema para eles começarem a utilizar.
+
+
+Ex de um planejamento de Release
+
+     SPRINT 1               |                     SPRINT 3                     |
+                            |                                                  |
+_____semana1__.__semana2____|___semana3__.__semana4___.__semana5__.__semana6___|____................> produto final
+liberações                 R1                        R2
+ a cada Sprint      (história 1 e 2)            (história 3)
+
+
+
+A cada término iremos liberar uma versão do sistema. Exemplo da escola: cadastro de novos alunos (primeira história)
+Nem sempre uma sprint vai culminar em algo realmente pronto para o cliente. Na verdade uma release representa uma liberação de uma nova versão do sistema para o cliente utilizar no dia a dia.
+
+-> A maioria das sprints não resulta em uma release sendo entregue para o cliente, pode ser concluimos uma sprint o cliente dá um feedback e contiuamos trablhando em cima do projeto.
+
+Nesse momento do planejamento da release, você define o tamanho de uma sprint(estimativa).
+
+Uma vez definido o tamanho de uma sprint (2 semanas,  3 semanas , 4 semanas) o mesmo não deve ser alterado ao longo do projeto.
+
+![image](https://user-images.githubusercontent.com/52088444/208301753-76b7c654-7941-4349-8086-e6753f6033d6.png)
+
+O planejamento de Release reflete as prioridades do backlog.
+
+O cronograma de release deve ser flexivel a mudanças, a grane diferença das metodologias ágeis é a aceitação de mudanças.
+Pois no andamento do projeto podem surgir novas histórias. A medida da evolução do projeto o cliente pode incluir ou excluir detalhes do projeto.
+
+![image](https://user-images.githubusercontent.com/52088444/208301834-92db7580-dbe1-492b-aedc-e67c40b947aa.png)
+
+
+
+## Como definir um bom objetivo
+
+Objetivo é onde você quer chegar, aonde você quer estar quando concluir o projeto.
+
+O objetivo deixa claro para sua equipe e seus gestores qual o fim desse projeto, onde queremos chegar.
+
+![image](https://user-images.githubusercontent.com/52088444/208302190-e652be40-c500-4980-ab0c-9ef06bca01a9.png)
+
+Ex:
+
+Um objetivo ruim: Aumentar o faturamento da minha empresa. 
+
+Transformar nm objetivo smart-> (mais especifico- 20%) (mensuravel - aferir a cada mês  )(atingivel- organizar a equipe, trazr novos projetos...)(relevante - que seja relevante para a equipe e empresa) (prazo - 3 meses)
+
+Aumentar o faturamento da minha empresa em 20% dentro de 3 mesesatravés da reorganização da equipe e realização de melhores planejamentos para melhor aproveitamento de recursos da empresa. 
+
+Compartilhar o objetivo do projeto com a equipe para que eles se sintam parte, que se sintam importantes.
+
+A reunião kick off é o pontapé inicial para execução de um projeto, logo após a etapa do planejamento. Deve falar sobre a justificativa do projeto, como cada membro é importante, o por que a empresa absorveu esse projeto...
+
+
+
+Dono do Produto e Scrum Master podem ser a mesma pessoa?Num cenário geral, é fundamental que o Dono do Produto e o Scrum Master sejam pessoas diferentes, pois estes dois papéis assumem responsabilidade completamente diferentes e também possuem perfis de diferentes profissionais.
+
+Mas é claro que, na prática, se você tem uma equipe muito pequena e quer aplicar o Scrum, você pode ser PO e SM. Mas este cenário seria uma adaptação e não uma recomendação.
+
+
+
+
+
+
+
+
+
+
+
 
 
 
