@@ -1,5 +1,8 @@
 # Fase iniciar garantir o sucesso do projeto desde o início
 
+![image](https://user-images.githubusercontent.com/52088444/208318066-9ca2c00c-c746-4482-bd60-e5833ad8b4bb.png)
+
+
 Projeto modelo: Desenvolvimento do Sistema Escolar da Escola Esperanca
 OBSERVAÇÃO: Projeto surge de uma necessidade.
 
